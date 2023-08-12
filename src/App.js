@@ -2,6 +2,7 @@ import Banner from "./components/Banner";
 import Expert from "./components/Expert";
 import Header from "./components/Header";
 import NewsLetter from "./components/NewsLetter";
+import Plans from "./components/Plans";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Banner></Banner>
       <Expert></Expert>
       <NewsLetter></NewsLetter>
+      <Plans></Plans>
     </>
   );
 }
