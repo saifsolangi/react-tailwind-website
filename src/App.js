@@ -12,6 +12,7 @@ function App() {
       <Expert></Expert>
       <NewsLetter></NewsLetter>
       <Plans course1="Web Development" course2="Digital Marketing" course3="Designing"></Plans>
+      <Plans course1="Basic" course2="Advance" course3="Pro"></Plans>
     </>
   );
 }
