@@ -11,7 +11,7 @@ function App() {
       <Banner></Banner>
       <Expert></Expert>
       <NewsLetter></NewsLetter>
-      <Plans></Plans>
+      <Plans course1="Web Development" course2="Digital Marketing" course3="Designing"></Plans>
     </>
   );
 }
